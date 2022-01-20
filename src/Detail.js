@@ -38,7 +38,7 @@ class Detail extends React.Component {
             <p className="bigger">END ☺</p>
         </div>
         </div>
-      </div>
+      </div> 
 
       
     );
